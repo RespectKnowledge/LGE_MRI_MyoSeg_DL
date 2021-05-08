@@ -11,7 +11,8 @@ https://zmiclab.github.io/projects/mscmrseg19/
 
 Use preprocessing function to extract data from nifity to png and save each slice for training and testing
 
-Emidec_challenge_dataset.py
+#Emidec_challenge_dataset.py
+#MSCMR_2019_preprocessing.py
 
 We will upload the model, training, testing module soon.
 
